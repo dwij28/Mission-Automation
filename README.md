@@ -1,0 +1,2 @@
+# Mission-Automation
+This repository consists of scripts written to automate tasks/ crawl websites/ make bots. The scripts are primarily written in Python 2.x but may use some non-standard library, 3rd party python modules.
