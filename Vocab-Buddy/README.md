@@ -1,5 +1,7 @@
 #Vocab-Buddy
 
+![alt tag](https://raw.githubusercontent.com/dwij28/Mission-Automation/master/Vocab-Buddy/screenshot.png)
+
 A script that prompts words & their meanings every hour (or as required) to help build vocabulary
 User can remove / add new words and meanings of their choice in the words.txt file
 New words must be formatted as "word : meaning" (same as existing words) on individual lines
